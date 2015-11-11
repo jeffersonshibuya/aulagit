@@ -1,0 +1,3 @@
+# aulagit
+
+GIT and Github
